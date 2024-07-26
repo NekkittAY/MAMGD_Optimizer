@@ -10,6 +10,7 @@ This project focuses on the development of a gradient-based optimization method 
 - Keras
 - Matplotlib
 - NumPy
+- Pandas
 
 ### Features
 - Optimization of multidimensional real functions
