@@ -20,3 +20,7 @@ This project focuses on the development of a gradient-based optimization method 
 - Optimization of neural networks
 - Utilizes exponential decay for optimization
 - Integration with Tensorflow and Keras for seamless implementation
+
+## Algorithm
+
+https://github.com/NekkittAY/MAMGD_Optimizer/blob/main/doc/MAMGD_optimizer_img.jpg?raw=true
