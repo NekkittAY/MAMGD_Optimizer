@@ -22,5 +22,4 @@ This project focuses on the development of a gradient-based optimization method 
 - Integration with Tensorflow and Keras for seamless implementation
 
 ## Algorithm
-
-https://github.com/NekkittAY/MAMGD_Optimizer/blob/main/doc/MAMGD_optimizer_img.jpg?raw=true
+<img width="800px" src="https://github.com/NekkittAY/MAMGD_Optimizer/blob/main/doc/MAMGD_optimizer_img.jpg?raw=true"/>
