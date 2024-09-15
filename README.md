@@ -26,3 +26,16 @@ Optimization methods, namely, gradient optimization methods, are a key part of n
 
 ## Algorithm
 <img width="800px" src="https://github.com/NekkittAY/MAMGD_Optimizer/blob/main/doc/MAMGD_optimizer_img.jpg?raw=true"/>
+
+## Article 
+
+@article{sakovich2024mamgd,
+  title={MAMGD: Gradient-Based Optimization Method Using Exponential Decay},
+  author={Sakovich, Nikita and Aksenov, Dmitry and Pleshakova, Ekaterina and Gataullin, Sergey},
+  journal={Technologies},
+  volume={12},
+  number={9},
+  pages={154},
+  year={2024},
+  publisher={MDPI}
+}
