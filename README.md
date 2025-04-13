@@ -1,4 +1,8 @@
 # MAMGD_Optimizer
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 Gradient optimization method using exponential damping and second-order discrete derivative for neural networks and multidimensional real functions
 
 * Sakovich, N.; Aksenov, D.; Pleshakova, E.; Gataullin, S. MAMGD: Gradient-Based Optimization Method Using Exponential Decay. Technologies 2024, 12, 154. https://doi.org/10.3390/technologies12090154
